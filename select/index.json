@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "A Horny Money World ～伝説の夜～",
+  "base_artist": "宝鐘マリン",
+  "createdAt": "2025-12-23T13:03:21.706892Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A Horny Money World ～伝説の夜～",
+      "artist": "宝鐘マリン",
+      "has_synced": true,
+      "path": "select/01_A_Horny_Money_World_~伝説の夜~_宝鐘マリン.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "A Horny Money World ～伝説の夜～",
+      "artist": "宝鐘マリン",
+      "has_synced": false,
+      "path": "select/pl_01_A_Horny_Money_World_~伝説の夜~_宝鐘マリン.txt"
+    }
+  ]
+}
